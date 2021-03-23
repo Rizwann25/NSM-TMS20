@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.atmecs.tms20.AppTest" duration-ms="6" started-at="2021-03-23T07:46:16Z" finished-at="2021-03-23T07:46:16Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="6" started-at="2021-03-23T07:46:16Z" finished-at="2021-03-23T07:46:16Z">
+    </test> <!-- Command line test -->
+  </suite> <!-- com.atmecs.tms20.AppTest -->
+</testng-results>

@@ -1,0 +1,9 @@
+com\atmecs\tms20\Utils\PropReader.class
+com\atmecs\tms20\Utils\Utils.class
+com\atmecs\tms20\pages\TMSLogin.class
+com\atmecs\tms20\runner\TestNGRunner.class
+com\atmecs\tms20\pages\TMSAdmin.class
+com\atmecs\tms20\testsuite\SampleTestSuiteBase.class
+com\atmecs\tms20\constant\FilePathConstants.class
+com\atmecs\tms20\constant\LocatorKeyContainer.class
+com\atmecs\tms20\testscript\ClientAdvanceSearch.class

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="os" value="windows"/>
+    <parameter name="osVersion" value="10"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="browserVersion" value="89"/>
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch">
+        <methods>
+          <include name="teardown"/>
+          <include name="preSetup"/>
+          <include name="AdminModule" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.atmecs.tms20.testscript.ClientAdvanceSearch -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
