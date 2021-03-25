@@ -1,4 +1,4 @@
-package com.atmecs.tms20.Utils;
+package com.atmecs.tms20.utils;
 
 import java.io.File;
 import java.io.FileInputStream;

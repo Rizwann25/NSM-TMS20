@@ -1106,3 +1106,1392 @@
   </test> <!-- SampleTest -->
 </suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
 
+2021-03-23 14:12:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 14:12:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 14:12:26 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 14:12:27 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 14:12:27 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 14:12:27 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 14:12:27 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 14:51:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 14:51:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 14:51:16 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 14:51:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 14:51:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 14:51:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 14:51:17 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 15:37:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 15:37:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 15:37:56 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 15:37:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 15:37:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 15:37:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 15:37:57 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 16:00:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 16:00:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 16:00:07 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 16:00:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 16:00:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 16:00:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 16:00:09 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 16:05:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 16:05:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 16:05:23 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 16:05:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 16:05:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 16:05:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 16:05:24 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 16:07:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 16:07:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 16:07:15 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 16:07:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 16:07:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 16:07:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 16:07:16 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 16:34:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 16:34:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 16:34:38 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 16:34:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 16:34:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 16:34:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 16:34:39 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 16:46:40 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 16:46:40 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 16:46:40 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 16:46:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 16:46:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 16:46:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 16:46:41 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 18:06:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 18:06:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 18:06:46 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 18:06:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 18:06:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 18:06:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 18:06:47 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 18:16:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 18:16:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 18:16:34 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 18:16:35 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 18:16:35 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 18:16:35 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 18:16:35 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 18:19:01 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 18:19:01 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 18:19:01 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 18:19:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 18:19:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 18:19:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 18:19:02 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 18:41:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 18:41:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 18:41:58 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 18:41:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 18:41:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 18:41:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 18:41:59 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 18:46:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 18:46:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 18:46:07 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 18:46:08 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 18:46:08 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 18:46:08 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 18:46:08 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 18:56:10 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 18:56:10 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 18:56:10 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 18:57:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 18:57:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 18:57:03 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 18:57:04 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 18:57:04 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 18:57:04 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 18:57:04 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 19:03:21 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 19:03:21 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 19:03:21 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 19:03:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 19:03:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 19:03:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 19:03:22 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 19:11:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 19:11:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 19:11:38 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 19:11:40 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 19:11:40 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 19:11:40 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 19:11:40 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 19:40:27 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 19:40:27 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 19:40:27 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 19:40:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 19:40:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 19:40:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 19:40:28 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 19:43:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 19:43:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 19:43:11 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 19:43:13 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 19:43:13 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 19:43:13 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 19:43:13 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 19:44:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 19:44:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 19:44:58 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 19:45:00 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 19:45:00 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 19:45:00 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 19:45:00 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 19:48:36 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 19:48:36 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 19:48:36 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 19:48:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 19:48:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 19:48:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 19:48:37 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 19:58:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 19:58:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 19:58:39 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 19:58:40 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 19:58:40 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 19:58:40 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 19:58:40 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 20:03:08 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 20:03:08 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 20:03:08 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 20:03:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 20:03:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 20:03:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 20:03:09 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 20:32:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 20:32:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 20:32:37 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 20:32:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 20:32:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 20:32:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 20:32:38 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 20:45:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 20:45:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 20:45:06 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 20:45:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 20:45:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 20:45:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 20:45:07 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 21:13:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 21:13:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 21:13:44 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 21:13:45 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 21:13:45 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 21:13:45 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 21:13:45 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 21:15:43 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 21:15:43 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 21:15:43 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 21:15:45 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 21:15:45 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 21:15:45 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 21:15:45 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 21:19:01 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 21:19:01 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 21:19:01 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 21:19:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 21:19:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 21:19:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 21:19:07 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 21:20:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 21:20:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 21:20:34 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 21:20:35 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 21:20:35 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 21:20:35 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 21:20:35 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 22:10:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 22:10:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 22:10:53 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 22:10:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 22:10:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 22:10:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 22:10:54 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 22:13:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 22:13:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 22:13:39 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 22:13:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 22:13:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 22:13:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 22:13:39 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 22:35:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 22:35:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 22:35:06 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 22:35:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 22:35:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 22:35:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 22:35:07 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 22:37:04 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 22:37:04 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 22:37:04 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 22:37:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 22:37:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 22:37:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 22:37:05 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 22:42:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 22:42:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 22:42:42 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 22:42:43 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 22:42:43 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 22:42:43 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 22:42:43 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 23:06:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 23:06:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 23:06:17 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 23:06:18 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 23:06:18 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 23:06:18 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 23:06:19 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 23:22:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 23:22:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 23:22:12 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 23:22:13 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 23:22:13 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 23:22:13 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 23:22:13 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 23:24:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 23:24:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 23:24:54 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 23:24:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 23:24:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 23:24:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 23:24:56 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 23:26:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 23:26:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 23:26:58 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 23:26:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 23:26:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 23:26:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 23:26:59 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-23 23:30:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-23 23:30:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-23 23:30:33 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-23 23:30:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-23 23:30:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-23 23:30:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-23 23:30:34 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 10:34:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 10:34:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 10:34:15 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 10:34:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 10:34:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 10:34:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 10:34:17 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 10:37:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 10:37:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 10:37:34 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 10:37:35 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 10:37:35 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 10:37:35 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 10:37:35 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 10:56:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 10:56:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 10:56:57 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 10:56:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 10:56:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 10:56:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 10:56:58 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 11:26:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 11:26:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 11:26:31 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 11:26:32 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 11:26:32 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 11:26:32 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 11:26:32 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 16:46:45 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 16:46:45 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 16:46:45 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 16:46:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 16:46:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 16:46:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 16:46:49 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 19:37:04 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 19:37:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 19:37:05 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 19:37:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 19:37:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 19:37:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 19:37:07 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 19:51:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 19:51:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 19:51:23 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 19:51:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 19:51:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 19:51:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 19:51:24 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 19:57:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 19:57:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 19:57:24 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 19:57:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 19:57:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 19:57:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 19:57:26 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 20:00:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 20:00:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 20:00:41 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 20:00:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 20:00:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 20:00:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 20:00:42 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 20:20:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 20:20:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 20:20:05 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 20:20:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 20:20:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 20:20:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 20:20:06 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 20:23:10 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 20:23:10 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 20:23:10 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 20:23:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 20:23:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 20:23:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 20:23:11 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 20:25:00 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 20:25:00 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 20:25:00 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 20:25:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 20:25:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 20:25:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 20:25:02 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 20:27:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 20:27:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 20:27:37 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 20:27:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 20:27:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 20:27:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 20:27:38 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 20:30:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 20:30:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 20:30:15 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 20:30:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 20:30:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 20:30:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 20:30:16 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 20:34:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 20:34:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 20:34:38 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 20:34:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 20:34:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 20:34:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 20:34:39 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 22:40:50 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 22:40:50 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 22:40:50 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 22:40:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 22:40:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 22:40:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 22:40:54 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 22:49:19 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 22:49:19 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 22:49:19 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 22:49:20 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 22:49:20 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 22:49:20 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 22:49:20 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 22:54:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 22:54:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 22:54:15 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 22:54:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 22:54:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 22:54:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 22:54:16 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 23:00:01 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 23:00:01 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 23:00:01 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 23:00:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 23:00:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 23:00:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 23:00:02 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 23:05:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 23:05:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 23:05:58 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 23:05:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 23:05:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 23:05:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 23:05:59 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 23:11:00 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 23:11:00 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 23:11:00 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 23:11:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 23:11:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 23:11:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 23:11:05 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 23:18:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 23:18:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 23:18:31 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 23:18:32 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 23:18:32 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 23:18:32 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 23:18:32 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-24 23:26:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-24 23:26:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-24 23:26:12 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-24 23:26:13 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-24 23:26:13 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-24 23:26:13 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-24 23:26:13 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-25 09:14:19 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-25 09:14:19 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-25 09:14:19 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-25 09:14:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-25 09:14:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-25 09:14:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-25 09:14:22 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+
+2021-03-25 09:23:13 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable NSM is: NSM
+2021-03-25 09:23:13 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable TMS20Admin is: TMS20Admin
+2021-03-25 09:23:13 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2021-03-25 09:23:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [NSM]
+
+2021-03-25 09:23:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [TMS20Admin]
+
+2021-03-25 09:23:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: NSM-Sample-WIN_10_chrome_84
+2021-03-25 09:23:14 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="NSM-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- NSM-Sample-WIN_10_chrome_84 -->
+

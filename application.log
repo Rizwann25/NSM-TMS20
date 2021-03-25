@@ -1,0 +1,13 @@
+2021-03-25 09:23:24,355  INFO [com.atmecs.tms20.runner.TestNGRunner.main()] TMSLogin:51 - Entering USN
+2021-03-25 09:23:24,549  INFO [com.atmecs.tms20.runner.TestNGRunner.main()] TMSLogin:51 - Click on next button
+2021-03-25 09:23:29,224  INFO [com.atmecs.tms20.runner.TestNGRunner.main()] TMSLogin:51 - Entering pwd
+2021-03-25 09:23:29,317  INFO [com.atmecs.tms20.runner.TestNGRunner.main()] TMSLogin:51 - Click signin
+2021-03-25 09:23:50,375  INFO [com.atmecs.tms20.runner.TestNGRunner.main()] TMSLogin:51 - click on linkhomesearch_button_link
+2021-03-25 09:23:50,987  INFO [com.atmecs.tms20.runner.TestNGRunner.main()] TMSLogin:51 - click on linkclient_link
+2021-03-25 09:23:51,478  INFO [com.atmecs.tms20.runner.TestNGRunner.main()] TMSLogin:51 - click on linkadvance_search_link
+2021-03-25 09:23:55,578  INFO [com.atmecs.tms20.runner.TestNGRunner.main()] TMSLogin:51 - click on linkconglom_link
+2021-03-25 09:23:58,818  INFO [com.atmecs.tms20.runner.TestNGRunner.main()] TMSLogin:51 - Entering CONGLOM Value
+2021-03-25 09:23:59,382  INFO [com.atmecs.tms20.runner.TestNGRunner.main()] CustomListener:130 - Screenshot Captured for failure D:\Workspace\tms20\target\NSM-Sample-WIN_10_chrome_84\Screenshots\AdvanceSearch_1_.png
+2021-03-25 09:23:59,382  INFO [com.atmecs.tms20.runner.TestNGRunner.main()] CustomListener:51 - FAIL : Error occurred, capturing screenshot; refer to ERROR tab for more details
+2021-03-25 09:24:20,436  INFO [com.atmecs.tms20.runner.TestNGRunner.main()] CustomListener:51 - Unknown error cannot upload screenshot to server : Connection timed out: connect
+2021-03-25 09:24:42,210 ERROR [com.atmecs.tms20.runner.TestNGRunner.main()] TestNGRunner:89 - Unknown error : : Cannot Upload the testng-results.xml Connection timed out: connect

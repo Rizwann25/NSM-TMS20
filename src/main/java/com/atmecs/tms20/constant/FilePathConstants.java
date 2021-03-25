@@ -16,8 +16,10 @@ public class FilePathConstants {
 	public final static String HOME_LOCATOR_PATH = ATMECS_HOME
 			+ "HomeAtmecsIncDigitalSolutionsProductEngineeringServices.properties";
 	
-	public final static String ADMIN_PAGE_LOCATOR_PATH = LOCATOR_HOME + "atmecs/AdminPage.properties" ;
-	public final static String LOGIN_PAGE_LOCATOR_PATH = LOCATOR_HOME + "atmecs/Data.Properties" ;
+	public final static String ADMIN_PAGE_LOCATOR_PATH = LOCATOR_HOME + "atmecs/adminpage.properties" ;
+	public final static String LOGIN_PAGE_LOCATOR_PATH = LOCATOR_HOME + "atmecs/data.properties" ;
+	public final static String DRIVER_PAGE_LOCATOR_PATH = LOCATOR_HOME + "atmecs/driverpage.properties";
+	
 	
 
 }

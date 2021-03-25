@@ -9,9 +9,9 @@
     <classes>
       <class name="com.atmecs.tms20.testscript.ClientAdvanceSearch">
         <methods>
+          <include name="AdvanceSearch" invocation-numbers="0"/>
           <include name="teardown"/>
           <include name="preSetup"/>
-          <include name="AdminModule"/>
         </methods>
       </class> <!-- com.atmecs.tms20.testscript.ClientAdvanceSearch -->
     </classes>

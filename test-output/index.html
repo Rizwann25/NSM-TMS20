@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -38,7 +38,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-NSM-Sample-WIN_10_chrome_84">
-              <span class="suite-name border-skipped">NSM-Sample-WIN_10_chrome_84</span>
+              <span class="suite-name border-failed">NSM-Sample-WIN_10_chrome_84</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -91,21 +91,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method,  1 skipped,  </span>
+                    <span class="method-stats">1 method, 1 failed,   </span>
                   </li>
                   <li>
-                    <span class="method-list-title skipped">Skipped methods</span>
-                    <span class="show-or-hide-methods skipped">
-                      <a href="#" panel-name="suite-NSM-Sample-WIN_10_chrome_84" class="hide-methods skipped suite-NSM-Sample-WIN_10_chrome_84"> (hide)</a> <!-- hide-methods skipped suite-NSM-Sample-WIN_10_chrome_84 -->
-                      <a href="#" panel-name="suite-NSM-Sample-WIN_10_chrome_84" class="show-methods skipped suite-NSM-Sample-WIN_10_chrome_84"> (show)</a> <!-- show-methods skipped suite-NSM-Sample-WIN_10_chrome_84 -->
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-NSM-Sample-WIN_10_chrome_84" class="hide-methods failed suite-NSM-Sample-WIN_10_chrome_84"> (hide)</a> <!-- hide-methods failed suite-NSM-Sample-WIN_10_chrome_84 -->
+                      <a href="#" panel-name="suite-NSM-Sample-WIN_10_chrome_84" class="show-methods failed suite-NSM-Sample-WIN_10_chrome_84"> (show)</a> <!-- show-methods failed suite-NSM-Sample-WIN_10_chrome_84 -->
                     </span>
-                    <div class="method-list-content skipped suite-NSM-Sample-WIN_10_chrome_84">
+                    <div class="method-list-content failed suite-NSM-Sample-WIN_10_chrome_84">
                       <span>
-                        <img width="3%" src="skipped.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-NSM-Sample-WIN_10_chrome_84" title="com.atmecs.tms20.testscript.ClientAdvanceSearch" hash-for-method="AdminModule">AdminModule</a> <!-- method navigator-link -->
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-NSM-Sample-WIN_10_chrome_84" title="com.atmecs.tms20.testscript.ClientAdvanceSearch" hash-for-method="AdvanceSearch(WIN, 10, chrome, 84)">AdvanceSearch(WIN, 10, chrome, 84)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                    </div> <!-- method-list-content skipped suite-NSM-Sample-WIN_10_chrome_84 -->
+                    </div> <!-- method-list-content failed suite-NSM-Sample-WIN_10_chrome_84 -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -117,21 +117,36 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-NSM-Sample-WIN_10_chrome_84" class="panel NSM-Sample-WIN_10_chrome_84">
-          <div class="suite-NSM-Sample-WIN_10_chrome_84-class-skipped">
+          <div class="suite-NSM-Sample-WIN_10_chrome_84-class-failed">
             <div class="main-panel-header rounded-window-top">
-              <img src="skipped.png"/>
+              <img src="failed.png"/>
               <span class="class-name">com.atmecs.tms20.testscript.ClientAdvanceSearch</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="AdminModule">
-                  </a> <!-- AdminModule -->
-                  <span class="method-name">AdminModule</span>
-                  <div class="stack-trace">java.lang.AssertionError: Unexpected error, please check with URL no protocol: url
-	at com.atmecs.falcon.automation.ui.selenium.Browser.validateURL(Browser.java:526)
-	at com.atmecs.falcon.automation.ui.selenium.Browser.openURL(Browser.java:374)
-	at com.atmecs.tms20.testsuite.SampleTestSuiteBase.preSetup(SampleTestSuiteBase.java:33)
+                  <a name="AdvanceSearch(WIN, 10, chrome, 84)">
+                  </a> <!-- AdvanceSearch(WIN, 10, chrome, 84) -->
+                  <span class="method-name">AdvanceSearch</span>
+                  <span class="parameters">(WIN, 10, chrome, 84)</span>
+                  <div class="stack-trace">org.openqa.selenium.JavascriptException: javascript error: option element is not in a select
+  (Session info: chrome=89.0.4389.90)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;ATMECSINLT-407&apos;, ip: &apos;192.168.0.104&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_241&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: C:\Users\MOHAMM~1.RIZ\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:49398}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c7c2c34d41d6eafe0c0908676d109fff
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at com.atmecs.falcon.automation.ui.selenium.Click.performClick(Click.java:148)
+	at com.atmecs.tms20.pages.TMSLogin.enterConglomparttwo(TMSLogin.java:92)
+	at com.atmecs.tms20.testscript.ClientAdvanceSearch.AdvanceSearch(ClientAdvanceSearch.java:57)
 	at com.atmecs.tms20.runner.TestNGRunner.main(TestNGRunner.java:61)
 	at org.codehaus.mojo.exec.ExecJavaMojo$1.run(ExecJavaMojo.java:294)
 	at java.lang.Thread.run(Thread.java:748)
@@ -140,7 +155,7 @@
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-NSM-Sample-WIN_10_chrome_84-class-skipped -->
+          </div> <!-- suite-NSM-Sample-WIN_10_chrome_84-class-failed -->
         </div> <!-- panel NSM-Sample-WIN_10_chrome_84 -->
         <div panel-name="test-xml-NSM-Sample-WIN_10_chrome_84" class="panel">
           <div class="main-panel-header rounded-window-top">
@@ -199,14 +214,14 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'AdminModule')
+data.setCell(0, 1, 'AdvanceSearch')
 data.setCell(0, 2, 'com.atmecs.tms20.testscript.ClientAdvanceSearch')
-data.setCell(0, 3, 0);
+data.setCell(0, 3, 35460);
 window.suiteTableData['NSM-Sample-WIN_10_chrome_84']= { tableData: data, tableDiv: 'times-div-NSM-Sample-WIN_10_chrome_84'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 0 ms</span>
+              <span class="suite-total-time">Total running time: 35 seconds</span>
               <div id="times-div-NSM-Sample-WIN_10_chrome_84">
               </div> <!-- times-div-NSM-Sample-WIN_10_chrome_84 -->
             </div> <!-- times-div -->
@@ -217,6 +232,23 @@ return data;
             <span class="header-content">Reporter output for NSM-Sample-WIN_10_chrome_84</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">AdvanceSearch(WIN, 10, chrome, 84)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Entering USN</span>
+                <span class="reporter-method-output">Click on next button</span>
+                <span class="reporter-method-output">Entering pwd</span>
+                <span class="reporter-method-output">Click signin</span>
+                <span class="reporter-method-output">click on linkhomesearch_button_link</span>
+                <span class="reporter-method-output">click on linkclient_link</span>
+                <span class="reporter-method-output">click on linkadvance_search_link</span>
+                <span class="reporter-method-output">click on linkconglom_link</span>
+                <span class="reporter-method-output">Entering CONGLOM Value</span>
+                <span class="reporter-method-output">FAIL : Error occurred, capturing screenshot; refer to ERROR tab for more details</span>
+                <span class="reporter-method-output">Unknown error cannot upload screenshot to server : Connection timed out: connect</span>
+                <span class="reporter-method-output">Unknown error cannot upload screenshot to server : Connection timed out: connect</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="ignored-methods-NSM-Sample-WIN_10_chrome_84" class="panel">
@@ -233,16 +265,20 @@ return data;
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
               <div class="chronological-class-name">com.atmecs.tms20.testscript.ClientAdvanceSearch</div> <!-- chronological-class-name -->
-              <div class="test-method">
-                <span class="method-name">AdminModule</span>
-                <span class="method-start">0 ms</span>
-              </div> <!-- test-method -->
               <div class="configuration-method before">
-                <img src="failed.png">
-                </img>
                 <span class="method-name">preSetup(WIN, 10, chrome, 84)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">AdvanceSearch(WIN, 10, chrome, 84)</span>
+                <span class="method-start">8749 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">teardown</span>
+                <span class="method-start">65630 ms</span>
+              </div> <!-- configuration-method after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->

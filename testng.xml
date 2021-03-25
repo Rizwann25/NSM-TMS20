@@ -3,5 +3,6 @@
 <suite name="Suite">
    <suite-files> 
    <suite-file path="./src/main/resources/suitefile/TMS20Admin.xml" />
+   <suite-file path="./src/main/resources/suitefile/TMSDriver.xml" />
    </suite-files>
 </suite> <!-- Suite -->
